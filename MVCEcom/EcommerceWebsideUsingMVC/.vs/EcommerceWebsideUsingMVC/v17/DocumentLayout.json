@@ -1,12 +1,92 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\Migrations\\20250929112647_Ecomerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250929112647_Ecomerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6218014D-1F63-454A-881A-CEF0DE2327A0}|EcommerceWebsideUsingMVC.csproj|d:\\shushant\\projects\\ecommercewebsideusingmvc\\mvcecom\\ecommercewebsideusingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6218014D-1F63-454A-881A-CEF0DE2327A0}|EcommerceWebsideUsingMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6218014D-1F63-454A-881A-CEF0DE2327A0}|EcommerceWebsideUsingMVC.csproj|d:\\shushant\\projects\\ecommercewebsideusingmvc\\mvcecom\\ecommercewebsideusingmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6218014D-1F63-454A-881A-CEF0DE2327A0}|EcommerceWebsideUsingMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6218014D-1F63-454A-881A-CEF0DE2327A0}|EcommerceWebsideUsingMVC.csproj|d:\\shushant\\projects\\ecommercewebsideusingmvc\\mvcecom\\ecommercewebsideusingmvc\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6218014D-1F63-454A-881A-CEF0DE2327A0}|EcommerceWebsideUsingMVC.csproj|solutionrelative:models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250929112647_Ecomerce.cs",
+              "DocumentMoniker": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\Migrations\\20250929112647_Ecomerce.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250929112647_Ecomerce.cs",
+              "ToolTip": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\Migrations\\20250929112647_Ecomerce.cs",
+              "RelativeToolTip": "Migrations\\20250929112647_Ecomerce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:26:48.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:22:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myContext.cs",
+              "DocumentMoniker": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\Models\\myContext.cs",
+              "RelativeDocumentMoniker": "Models\\myContext.cs",
+              "ToolTip": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\Models\\myContext.cs",
+              "RelativeToolTip": "Models\\myContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:20:22.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Shushant\\Projects\\EcommerceWebsideUsingMVC\\MVCEcom\\EcommerceWebsideUsingMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T11:15:06.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
